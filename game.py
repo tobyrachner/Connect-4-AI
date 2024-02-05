@@ -1,5 +1,5 @@
 import numpy as np
-from c4Minimax import minimax
+from minimax import minimax
 
 DEFAULT_BOARD = [
         [0, 0, 0, 0, 0, 0],
